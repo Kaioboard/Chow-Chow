@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChowChowCoin - A Memecoin para Amantes de Chow Chow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #FFD700;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            text-align: center;
+            background: #333;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        .button {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            color: white;
+            background: #FFD700;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ChowChowCoin</h1>
+        <p>A Memecoin para Amantes de Chow Chow!</p>
+    </header>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#tokenomics">Tokenomics</a>
+        <a href="#comunidade">Comunidade</a>
+        <a href="#aviso">Aviso Legal</a>
+    </nav>
+    <section id="sobre">
+        <h2>Sobre o ChowChowCoin</h2>
+        <p>O ChowChowCoin (CHOW) é uma memecoin criada para homenagear os apaixonados pela raça Chow Chow. Totalmente recreativa, é a forma perfeita de celebrar esses incríveis cães.</p>
+    </section>
+    <section id="tokenomics">
+        <h2>Detalhes do Token</h2>
+        <ul>
+            <li><strong>Nome:</strong> ChowChowCoin</li>
+            <li><strong>Símbolo:</strong> CHOW</li>
+            <li><strong>Rede:</strong> Solana</li>
+            <li><strong>Suprimento Total:</strong> 1.000.000 CHOW</li>
+        </ul>
+    </section>
+    <section id="comunidade">
+        <h2>Junte-se à Nossa Comunidade</h2>
+        <p>Acesse nossas redes sociais e compartilhe seu amor por Chow Chows!</p>
+        <a href="https://twitter.com" class="button">Twitter</a>
+        <a href="https://discord.com" class="button">Discord</a>
+    </section>
+    <section id="aviso">
+        <h2>Aviso Legal</h2>
+        <p>O ChowChowCoin é uma memecoin recreativa, sem valor financeiro ou objetivo de investimento. Qualquer negociação é feita por conta e risco do usuário.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 ChowChowCoin. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
